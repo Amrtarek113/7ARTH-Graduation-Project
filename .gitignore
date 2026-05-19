@@ -1,0 +1,54 @@
+# ====================
+# Data files (too large for git)
+# ====================
+**/data/*.csv
+**/data/*.zip
+**/data/**/*.csv
+**/data/**/*.zip
+
+# ====================
+# Model files (binaries, can be regenerated)
+# ====================
+*.pkl
+*.pickle
+*.h5
+*.keras
+*.tflite
+*.pth
+*.hdf5
+*.save
+*.pt
+
+# ====================
+# Jupyter checkpoints
+# ====================
+**/.ipynb_checkpoints/
+
+# ====================
+# Python cache
+# ====================
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# ====================
+# Virtual env
+# ====================
+venv/
+.venv/
+env/
+
+# ====================
+# IDE / OS
+# ====================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ====================
+# CSV in root
+# ====================
+*.csv
+*.log

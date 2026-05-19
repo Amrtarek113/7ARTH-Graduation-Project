@@ -1,0 +1,304 @@
+Folder PATH listing for volume 2023
+Volume serial number is 32C9-5A90
+D:.
+?   folder_structure.txt
+?   
+????APT_Detect
+?   ????code
+?   ?       Untitled-2.ipynb
+?   ?       
+?   ????data
+?   ?       flowFeatures.csv
+?   ?       
+?   ????model
+?           apt_detection_model.pth
+?           label_encoder.pkl
+?           scaler.pkl
+?           
+????Network-Intrusion-Detection-System-master
+?   ?   app.py
+?   ?   corrm.csv
+?   ?   Dockerfile
+?   ?   LICENSE
+?   ?   model.pkl
+?   ?   Network Intrusion Detection System.ipynb
+?   ?   num_summary.csv
+?   ?   pandas_profiling.html
+?   ?   Procfile
+?   ?   README.md
+?   ?   requirements.txt
+?   ?   
+?   ????NSL_Dataset
+?   ?       Test.txt
+?   ?       Train.txt
+?   ?       
+?   ????results
+?   ?       2020-06-15 15_28_16-Window.png
+?   ?       2020-06-15 15_29_02-Window.png
+?   ?       2020-06-15 15_30_02-Window.png
+?   ?       2020-06-15 15_31_30-Window.png
+?   ?       2020-06-15 15_31_58-Window.png
+?   ?       2020-06-15 15_32_25-Window.png
+?   ?       
+?   ????static
+?   ?       style.css
+?   ?       
+?   ????templates
+?           index.html
+?           
+????Real-time-IDS-master
+?   ?   .gitignore
+?   ?   application.py
+?   ?   README.md
+?   ?   requirements.txt
+?   ?   
+?   ????flow
+?   ?   ?   Flow.py
+?   ?   ?   FlowFeature.py
+?   ?   ?   PacketInfo.py
+?   ?   ?   
+?   ?   ????__pycache__
+?   ?           Flow.cpython-310.pyc
+?   ?           Flow.cpython-313.pyc
+?   ?           FlowFeature.cpython-310.pyc
+?   ?           FlowFeature.cpython-313.pyc
+?   ?           PacketInfo.cpython-310.pyc
+?   ?           PacketInfo.cpython-313.pyc
+?   ?           
+?   ????models
+?   ?       autoencoder_39ft.hdf5
+?   ?       explainer
+?   ?       model.pkl
+?   ?       preprocess_pipeline_AE_39ft.save
+?   ?       scaler.pkl
+?   ?       
+?   ????static
+?   ?   ????css
+?   ?   ?   ?   main.css
+?   ?   ?   ?   media.css
+?   ?   ?   ?   thirdparty.min.css
+?   ?   ?   ?   
+?   ?   ?   ????images
+?   ?   ?       ?   blank.gif
+?   ?   ?       ?   calendar.png
+?   ?   ?       ?   close.png
+?   ?   ?       ?   down.gif
+?   ?   ?       ?   ellipsis.png
+?   ?   ?       ?   lan.gif
+?   ?   ?       ?   loader.gif
+?   ?   ?       ?   newtab.png
+?   ?   ?       ?   search.png
+?   ?   ?       ?   warning.png
+?   ?   ?       ?   
+?   ?   ?       ????thirdparty
+?   ?   ?               flags.png
+?   ?   ?               sort_asc.png
+?   ?   ?               sort_both.png
+?   ?   ?               sort_desc.png
+?   ?   ?               ui-bg_flat_0_aaaaaa_40x100.png
+?   ?   ?               ui-bg_flat_75_ffffff_40x100.png
+?   ?   ?               ui-bg_glass_55_fbf9ee_1x400.png
+?   ?   ?               ui-bg_glass_65_ffffff_1x400.png
+?   ?   ?               ui-bg_glass_75_dadada_1x400.png
+?   ?   ?               ui-bg_glass_75_e6e6e6_1x400.png
+?   ?   ?               ui-bg_glass_95_fef1ec_1x400.png
+?   ?   ?               ui-bg_highlight-soft_75_cccccc_1x100.png
+?   ?   ?               ui-icons_222222_256x240.png
+?   ?   ?               ui-icons_2e83ff_256x240.png
+?   ?   ?               ui-icons_454545_256x240.png
+?   ?   ?               ui-icons_888888_256x240.png
+?   ?   ?               ui-icons_cd0a0a_256x240.png
+?   ?   ?               unknown.png
+?   ?   ?               
+?   ?   ????images
+?   ?   ?   ?   blank.gif
+?   ?   ?   ?   calendar.png
+?   ?   ?   ?   close.png
+?   ?   ?   ?   down.gif
+?   ?   ?   ?   ellipsis.png
+?   ?   ?   ?   lan.gif
+?   ?   ?   ?   loader.gif
+?   ?   ?   ?   mlogo.png
+?   ?   ?   ?   newtab.png
+?   ?   ?   ?   search.png
+?   ?   ?   ?   warning.png
+?   ?   ?   ?   
+?   ?   ?   ????thirdparty
+?   ?   ?           flags.png
+?   ?   ?           sort_asc.png
+?   ?   ?           sort_both.png
+?   ?   ?           sort_desc.png
+?   ?   ?           ui-bg_flat_0_aaaaaa_40x100.png
+?   ?   ?           ui-bg_flat_75_ffffff_40x100.png
+?   ?   ?           ui-bg_glass_55_fbf9ee_1x400.png
+?   ?   ?           ui-bg_glass_65_ffffff_1x400.png
+?   ?   ?           ui-bg_glass_75_dadada_1x400.png
+?   ?   ?           ui-bg_glass_75_e6e6e6_1x400.png
+?   ?   ?           ui-bg_glass_95_fef1ec_1x400.png
+?   ?   ?           ui-bg_highlight-soft_75_cccccc_1x100.png
+?   ?   ?           ui-icons_222222_256x240.png
+?   ?   ?           ui-icons_2e83ff_256x240.png
+?   ?   ?           ui-icons_454545_256x240.png
+?   ?   ?           ui-icons_888888_256x240.png
+?   ?   ?           ui-icons_cd0a0a_256x240.png
+?   ?   ?           unknown.png
+?   ?   ?           
+?   ?   ????js
+?   ?           application.js
+?   ?           
+?   ????templates
+?           detail.html
+?           index.html
+?           
+????7ARTH
+    ????attack_detect
+    ?   ????code
+    ?   ?   ?   gru_model.keras
+    ?   ?   ?   unsw-nb15-modelling-97-7 mohamed.ipynb
+    ?   ?   ?   unsw-nb15-modelling.1.ipynb
+    ?   ?   ?   UNSW_NB15_PyTorch_feature_selection_via_L1_regularization_on_layer_1.ipynb
+    ?   ?   ?   
+    ?   ?   ????iframe_figures
+    ?   ?           figure_17.html
+    ?   ?           
+    ?   ????data
+    ?   ?   ????archive (1)
+    ?   ?           NUSW-NB15_features.csv
+    ?   ?           UNSW-NB15_2.csv
+    ?   ?           UNSW-NB15_3.csv
+    ?   ?           UNSW-NB15_4.csv
+    ?   ?           UNSW-NB15_LIST_EVENTS.csv
+    ?   ?           UNSW_NB15_testing-set.csv
+    ?   ?           UNSW_NB15_training-set.csv
+    ?   ?           
+    ?   ????model
+    ?   ?       decision_tree_model.pkl
+    ?   ?       extra_trees_model.pkl
+    ?   ?       gradient_boosting_model.pkl
+    ?   ?       gru_model.keras
+    ?   ?       knn_model.pkl
+    ?   ?       logistic_regression_model.pkl
+    ?   ?       mlp_model.h5
+    ?   ?       mlp_model.keras
+    ?   ?       mlp_model.pkl
+    ?   ?       random_forest_model.pkl
+    ?   ?       
+    ?   ?????µ-?
+    ?           decision_tree_model.pkl
+    ?           extra_trees_model.pkl
+    ?           gradient_boosting_model.pkl
+    ?           knn_model.pkl
+    ?           logistic_regression_model.pkl
+    ?           lstm_model.keras
+    ?           mlp_classifier_model.pkl
+    ?           neural_network_model.h5
+    ?           neural_network_model.keras
+    ?           random_forest_model.pkl
+    ?           
+    ????IOT
+    ?   ?   autoencoder_clustered_model.tflite
+    ?   ?   autoencoder_int_quant_model.tflite
+    ?   ?   autoencoder_model.h5
+    ?   ?   autoencoder_model.tflite
+    ?   ?   autoencoder_pruned_model.tflite
+    ?   ?   best_optuna_ben050.0_mal000.1_qae_int_quant_model.tflite
+    ?   ?   best_optuna_ben050.0_mal000.1_qae_model.keras
+    ?   ?   best_optuna_ben050.0_mal000.1_qae_model.tflite
+    ?   ?   best_optuna_ben100.0_mal010.1_qae_model.keras
+    ?   ?   best_optuna_ben100.0_mal010.1_qae_model.tflite
+    ?   ?   CIC_QAE_hack_model.keras
+    ?   ?   clustered_autoencoder_model.h5
+    ?   ?   clustered_test_qae_model.keras
+    ?   ?   Correlation_Matrix.png
+    ?   ?   Learning_curves.png
+    ?   ?   Pairplot.png
+    ?   ?   pruned_autoencoder_model.h5
+    ?   ?   pruned_CIC_QAE_hack_model.keras
+    ?   ?   pruned_test_qae_model.keras
+    ?   ?   QAE_learning_curves.png
+    ?   ?   test_qae_clustered_model.tflite
+    ?   ?   test_qae_int_quant_model.tflite
+    ?   ?   test_qae_model.keras
+    ?   ?   test_qae_model.tflite
+    ?   ?   test_qae_pruned_model.tflite
+    ?   ?   Untitled-2.ipynb
+    ?   ?   Untitled.ipynb
+    ?   ?   
+    ?   ????.ipynb_checkpoints
+    ?   ?       Untitled-checkpoint.ipynb
+    ?   ?       
+    ?   ????Auto_Encoder_detection
+    ?   ?   ?   autoencoder_clustered_model.tflite
+    ?   ?   ?   autoencoder_int_quant_model.tflite
+    ?   ?   ?   autoencoder_model.h5
+    ?   ?   ?   autoencoder_model.tflite
+    ?   ?   ?   autoencoder_pruned_model.tflite
+    ?   ?   ?   clustered_autoencoder_model.h5
+    ?   ?   ?   clustered_test_qae_model.keras
+    ?   ?   ?   pruned_autoencoder_model.h5
+    ?   ?   ?   pruned_CIC_QAE_hack_model.keras
+    ?   ?   ?   pruned_test_qae_model.keras
+    ?   ?   ?   test_qae_clustered_model.tflite
+    ?   ?   ?   test_qae_int_quant_model.tflite
+    ?   ?   ?   test_qae_model.keras
+    ?   ?   ?   test_qae_model.tflite
+    ?   ?   ?   test_qae_pruned_model.tflite
+    ?   ?   ?   
+    ?   ?   ????data
+    ?   ?           RT_IOT2022.csv
+    ?   ?           
+    ?   ????image
+    ?   ?       Correlation_Matrix.png
+    ?   ?       Learning_curves.png
+    ?   ?       Pairplot.png
+    ?   ?       QAE_learning_curves.png
+    ?   ?       
+    ?   ????paper_code
+    ?   ?       quantized-autoencoder-qae-ids-for-iot-devices.ipynb
+    ?   ?       
+    ?   ????Quantam_anomly_detection
+    ?   ?   ?   best_optuna_ben050.0_mal000.1_qae_int_quant_model.tflite
+    ?   ?   ?   best_optuna_ben050.0_mal000.1_qae_model.keras
+    ?   ?   ?   best_optuna_ben050.0_mal000.1_qae_model.tflite
+    ?   ?   ?   best_optuna_ben100.0_mal010.1_qae_model.keras
+    ?   ?   ?   best_optuna_ben100.0_mal010.1_qae_model.tflite
+    ?   ?   ?   CIC_QAE_hack_model.keras
+    ?   ?   ?   
+    ?   ?   ????small data cicot2023
+    ?   ?           0.001percent_2classes.csv
+    ?   ?           0.01percent_2classes.csv
+    ?   ?           
+    ?   ????real code
+    ?           Untitled-2.ipynb
+    ?           Untitled.ipynb
+    ?           
+    ????ransomware_detect
+    ?   ?   knn_gs.pickle
+    ?   ?   memory-malware-detection-model-nominator.ipynb
+    ?   ?   
+    ?   ????data
+    ?   ?   ?   archive (4).zip
+    ?   ?   ?   
+    ?   ?   ????archive (4)
+    ?   ?           Obfuscated-MalMem2022.csv
+    ?   ?           
+    ?   ????model
+    ?           knn_gs.pickle
+    ?           
+    ????url
+        ?   malicious-url-detection.ipynb
+        ?   
+        ????data
+        ?   ????archive (4)
+        ?           malicious_phish.csv
+        ?           
+        ????model
+        ?       rf.pkl
+        ?       xgb.pkl
+        ?       
+        ????New folder
+                x-test.csv
+                x-train.csv
+                y-test.csv
+                y-train.csv
+                
